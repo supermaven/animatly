@@ -1,0 +1,25 @@
+.home-header-section {
+  width: 100%;
+  height: 560px;
+  background: linear-gradient(165deg, #0052FF 0%, #FF00D0 100%);
+  clip-path: polygon(0 0, 100% 0%, 100% 87%, 0% 100%);
+}
+
+.home-mobile-header-section {
+  width: 100%;
+  height: 500px;
+  background: linear-gradient(165deg, #0052FF 0%, #FF00D0 100%);
+  clip-path: polygon(0 0, 100% 0%, 100% 95%, 0% 100%);
+}
+
+.home-detail-section {
+  width: 100%;
+  background: linear-gradient(315deg, #E8EBF0 0%, #FAE6E6 100%);
+  clip-path: polygon(0 13%, 100% 0%, 100% 87%, 0% 100%);
+}
+
+.home-mobile-detail-section {
+  width: 100%;
+  background: linear-gradient(315deg, #E8EBF0 0%, #FAE6E6 100%);
+  clip-path: polygon(0 3%, 100% 0%, 100% 97%, 0% 100%);
+}

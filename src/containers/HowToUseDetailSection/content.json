@@ -1,0 +1,117 @@
+[
+  {
+    "title": "How can I embed an animation on my website?",
+    "video": "https://s3.us-east-2.amazonaws.com/animatly.io/HighlightMovie/How_to_implement_in_Web.mp4",
+    "subTitle": [
+      "Embed it with WordPress Elementor",
+      "Embed it in WordPress Gutenberg",
+      "Embed it manually",
+      "Embed it with Lottie Webplayer for WiX, Webflow, Shopify, and more"
+    ],
+    "body": [
+      {
+        "title": "Embed it with WordPress Elementor",
+        "steps": {
+          "Step 1": "Download the JSON file from the animation you want on Animatly.io.",
+          "Step 2": "Open your WordPress admin panel and edit your page with the Elementor Editor.",
+          "Step 3": "If you are a PRO Subscriber of Elementor, you can simply add a new element to your site. You just need to search for ‘’Lottie’’ and drag the element to the place you want. ",
+          "image": "website",
+          "Step 3.1": "If you're a free user of Elementor, you can download the Animentor plugin. To do that just go to your Plugins, click on the install button and search for the‘’ Animentor – Lottie & Bodymovin widget for Elementor’’ and install and activate it. Go to the Elementor editor and search for ‘’Lottie’’ now you should see a locked and an unlocked one. Drag the unlocked one to your page and upload the JSON file. ",
+          "Step 4": "After that, you can upload the JSON file and take control of it.",
+          "Step 5": "Click on ‘’loop’’ to play the animation continuously."
+        }
+      },
+      {
+        "title": "Embed it with WordPress Gutenberg",
+        "steps": {
+          "Step 1": "Download the JSON file from the animation you want on Animatly.io. ",
+          "Step 2": "Open your Worpress admin panel and go to your Plugins. Click on the ‘’install’’ button and search for ‘’Ultimate Addons for Gutenberg’’ install and activate the plugin. ",
+          "Step 3": "Now you can go to a page or post and edit it with the WordPress editor. ",
+          "Step 4": "Click on the plus to add a new block. Now you can search for ‘’Lottie’’ and click on it. ",
+          "Step 5": "Upload the JSON file and take control of the animation. "
+        }
+      },
+      {
+        "title": "Embed it with the Lottie Webplayer for WiX, Webflow, Shopify, and more",
+        "steps": {
+          "Step 1": "Simply create an embed code from the Lottie website and paste it where ever you want. Here you find all the required information: https://lottiefiles.com/web-player"
+        }
+      },
+      {
+        "title": "Embed it manually for your Website or APP",
+        "steps": {
+          "Step 1": "Here you can find the detailed documentation for web: https://airbnb.io/lottie/#/web Or here the documentation for Android: https://airbnb.io/lottie/#/android and IOS: https://airbnb.io/lottie/#/ios"
+        }
+      }
+    ]
+  },
+  {
+    "title": "How can I edit the source file in After Effects?",
+    "video": "https://s3.us-east-2.amazonaws.com/animatly.io/HighlightMovie/Source_File.mp4",
+    "subTitle": [
+      "Edit the source file"
+    ],
+    "body": [
+      {
+        "title": "Edit the source file",
+        "steps": {
+          "Step 1": "Download the After Effects file from the animation you want on Animatly.io. ",
+          "Step 2": "Open the After Effects file with the latest version of After Effects. To prevent any issues, make sure your After Effects language is set to English. ",
+          "Step 3": "Click on the little arrow on the layer called 'Color Controls' or 'slider and color control' then click on effects.",
+          "Step 4": "For a better experience we recommend opening all colors at once for illustrations. You can do that by clicking on a color and press 'CTRL' and 'A' on Windows or 'CMD' and 'A' on Mac, then click on the arrow of a color. Now All colors should be shown to you. ",
+          "image": "afterEffect",
+          "Step 5": "To edit the stroke size, click on the little arrow on 'Slider Control' 'and change the value as you like.",
+          "Step 6": "To have full control over the animation you must click on the 'hide layers' icon over your timeline. Once clicked you can see all layers and keyframes of the animation."
+        }
+      }
+    ]
+  },
+  {
+    "title": "How can I use it for a presentation?",
+    "video": "https://s3.us-east-2.amazonaws.com/animatly.io/HighlightMovie/Presentation.mp4",
+    "subTitle": [
+      "Implement it in Figma or Sketch, Adobe XD, Mailchimp, Canva, and more",
+      "Best workflow for designers"
+    ],
+    "body": [
+      {
+        "title": "Implement it in Keynote, PowerPoint, and more",
+        "steps": {
+          "Step 1": "Search on Animatly.io for a suitable icon or illustration for your presentation.",
+          "Step 2": "Open the editor by clicking on 'Edit Icon' and choose the appropriate color for your selected icon. When done, click on the 'GIF' download button.",
+          "Step 3": "Now you can choose the background color and the icon size. In our case the size 250x250px is sufficient.",
+          "Step 4": "The icon has been downloaded. Let’s drag and drop it into our presentation.",
+          "Step 5": "If you are using Keynote you must uncheck 'Start movie on click' so that the icon will be played from the beginning.",
+          "Step 6": "To see the animation you need to play (present) the presentation."
+        }
+      }
+    ]
+  },
+  {
+    "title": "How can I implement it in my Design tool?",
+    "video": "https://s3.us-east-2.amazonaws.com/animatly.io/HighlightMovie/Design_tool.mp4",
+    "subTitle": [
+      "Implement it in Figma or Sketch, Adobe XD, Mailchimp, Canva, and more",
+      "Best workflow for designers"
+    ],
+    "body": [
+      {
+        "title": "Implement it in Figma or Sketch, Adobe XD, Mailchimp, Canva, and more",
+        "steps": {
+          "Step 1": "Search for an illustration or icon on Animatly.io.",
+          "Step 2": "Click on the ‘’GIF’’ button and convert the animation to a GIF in your wished size. ",
+          "Step 3": "Use it like you would use a normal picture in your design tool and watch the animation when previewing it."
+        }
+      },
+      {
+        "title": "Best Workflow for Designers with icons and illustration license",
+        "subTitle": "Only if you are subscribed to icons and Illustrations, you have to option to download the SVG file.",
+        "steps": {
+          "Step 1": "Download the SVG file from the animation you want on Animatly.io. ",
+          "Step 2": "Drag and drop it on your design. ",
+          "Step 3": "Download the JSON file from Animatly.io and hand it over to your developer when creating the website."
+        }
+      }
+    ]
+  }
+]
